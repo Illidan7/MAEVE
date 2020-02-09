@@ -1,0 +1,98 @@
+dateTime,event
+2019-10-31 11:08:17.499397,Postion 1 entry
+2019-10-31 12:06:34.853811,Position 1 Target 1 Hit
+2019-10-31 12:07:07.365229,Position 1 Target 2 Hit
+2019-10-31 12:13:50.979780,Position 1 Target 3 Hit
+2019-10-31 12:14:55.294381,Position 1 Target 4 Hit
+2019-10-31 12:17:21.182468,Position 1 exit
+2019-10-31 12:17:21.992769,State 1 locked
+2019-10-31 13:06:22.498380,Postion 2 entry
+2019-10-31 14:55:11.109219,State 1 unlocked: Time unlock
+2019-10-31 15:00:00.766463,Postion 1 entry
+2019-10-31 20:32:51.047949,Position 2 exit
+2019-10-31 20:32:51.848970,State 2 locked
+2019-10-31 21:00:56.398188,Position 1 exit
+2019-10-31 21:00:57.186063,State 1 locked
+2019-10-31 22:03:52.374141,State 1 unlocked: State change unlock
+2019-10-31 23:07:18.600823,State 2 unlocked: Time unlock
+2019-11-01 10:17:06.887956,Postion 1 entry
+2019-11-01 10:17:38.814827,Position 1 shortSet 1
+2019-11-01 11:09:12.354485,Position 1 Target 1 Hit
+2019-11-01 11:30:53.871158,Position 1 Target 2 Hit
+2019-11-01 11:33:56.985777,Position 1 exit
+2019-11-01 11:33:57.777800,State 1 locked
+2019-11-01 14:08:08.081733,State 1 unlocked: Time unlock
+2019-11-01 14:10:13.650628,Postion 1 entry
+2019-11-01 15:56:58.415686,Position 1 Target 1 Hit
+2019-11-01 16:00:50.309909,Position 1 exit
+2019-11-01 16:00:51.122740,State 1 locked
+2019-11-01 16:26:15.970609,Postion 2 entry
+2019-11-01 18:41:24.467342,State 1 unlocked: Time unlock
+2019-11-01 18:47:38.357929,Postion 1 entry
+2019-11-01 19:03:38.689216,Position 1 shortSet 1
+2019-11-01 19:03:39.661610,Position 2 shortSet 0.5
+2019-11-01 21:04:50.049182,Position 2 Target 1 Hit
+2019-11-01 21:50:44.641851,Position 2 Target 2 Hit
+2019-11-01 22:18:13.807567,Position 2 exit
+2019-11-01 22:18:14.605069,State 2 locked
+2019-11-02 00:09:08.896845,Postion 3 entry
+2019-11-02 00:58:38.970744,State 2 unlocked: Time unlock
+2019-11-02 01:04:53.029485,Postion 2 entry
+2019-11-02 07:04:17.188220,Position 2 shortSet 0.5
+2019-11-02 12:03:19.882180,Position 1 Target 1 Hit
+2019-11-02 12:59:03.172778,Position 1 Target 2 Hit
+2019-11-02 13:03:12.363007,Position 2 Target 1 Hit
+2019-11-02 13:03:14.012962,Position 3 Target 1 Hit
+2019-11-02 13:14:42.864378,Position 1 exit
+2019-11-02 13:14:43.666792,State 1 locked
+2019-11-02 15:11:23.526134,Position 2 exit
+2019-11-02 15:11:24.321443,State 2 locked
+2019-11-02 15:12:37.131154,Position 3 exit
+2019-11-02 15:12:37.949387,State 3 locked
+2019-11-02 15:50:16.879829,State 1 unlocked: Time unlock
+2019-11-02 15:54:36.508615,Postion 1 entry
+2019-11-02 17:51:09.164160,State 2 unlocked: Time unlock
+2019-11-02 17:51:09.958191,State 3 unlocked: Time unlock
+2019-11-02 17:51:47.487521,Postion 2 entry
+2019-11-02 17:56:10.580974,Postion 3 entry
+2019-11-02 22:04:11.658433,Position 1 shortSet 1
+2019-11-02 22:04:12.464465,Position 2 shortSet 0.5
+2019-11-03 06:03:39.765293,Position 2 shortSet 1
+2019-11-03 06:03:40.706454,Position 3 shortSet 0.5
+2019-11-03 08:08:27.163965,Position 1 exit
+2019-11-03 08:14:17.835847,Position 2 exit
+2019-11-03 08:14:38.991105,Position 3 exit
+2019-11-03 22:02:18.860107,Postion 1 entry
+2019-11-03 22:03:21.504419,Position 1 shortSet 1
+2019-11-04 10:14:47.334641,Postion 2 entry
+2019-11-04 10:15:19.061846,Position 2 shortSet 0.5
+2019-11-04 11:55:50.958480,Position 1 Target 1 Hit
+2019-11-04 14:48:34.807291,Position 1 Target 2 Hit
+2019-11-04 14:48:36.384852,Position 2 Target 1 Hit
+2019-11-04 15:41:06.434965,Position 1 exit
+2019-11-04 15:41:07.219774,State 1 locked
+2019-11-04 18:15:20.232187,State 1 unlocked: Time unlock
+2019-11-04 18:17:41.691582,Postion 1 entry
+2019-11-04 20:18:55.269509,Position 1 Target 1 Hit
+2019-11-04 20:18:56.863123,Position 2 Target 2 Hit
+2019-11-04 20:19:29.376923,Position 1 Target 2 Hit
+2019-11-04 20:19:30.955534,Position 2 Target 3 Hit
+2019-11-04 20:20:03.455867,Position 1 Target 3 Hit
+2019-11-04 20:20:05.039720,Position 2 Target 4 Hit
+2019-11-04 20:25:30.613471,Position 1 exit
+2019-11-04 20:25:31.405898,State 1 locked
+2019-11-04 20:34:56.562384,Postion 3 entry
+2019-11-04 20:34:57.353957,Position 2 Target 5 Hit
+2019-11-04 20:49:02.715424,Position 2 exit
+2019-11-04 20:49:03.507937,State 2 locked
+2019-11-04 22:32:55.731816,Position 3 exit
+2019-11-04 22:32:56.529141,State 3 locked
+2019-11-04 23:00:17.422729,State 1 unlocked: Time unlock
+2019-11-04 23:03:21.056950,Postion 1 entry
+2019-11-04 23:26:34.215669,State 2 unlocked: Time unlock
+2019-11-04 23:32:31.961851,Postion 2 entry
+2019-11-05 01:16:12.598607,State 3 unlocked: Time unlock
+2019-11-05 01:22:26.618668,Postion 3 entry
+2019-11-05 06:27:49.603213,Position 1 shortSet 1
+2019-11-05 07:01:59.034714,Position 1 exit
+2019-11-05 07:02:06.963695,Position 2 exit

@@ -1,0 +1,35 @@
+dateTime,event
+2019-10-17 08:26:32.006384,Postion 1 entry
+2019-10-17 08:27:01.310274,Postion 2 entry
+2019-10-17 16:23:00.805754,Position 2 Target 1 Hit
+2019-10-17 23:08:53.618713,Position 1 shortSet 1
+2019-10-17 23:08:54.494418,Position 2 shortSet 0.5
+2019-10-18 01:48:24.919852,Postion 3 entry
+2019-10-18 05:29:27.825759,Position 1 exit
+2019-10-18 05:29:28.630121,State 1 locked
+2019-10-18 05:31:52.894404,Position 2 exit
+2019-10-18 05:32:24.601858,State 1 unlocked: State change unlock
+2019-10-18 05:32:34.047736,Position 3 exit
+2019-10-18 16:07:13.664377,Postion 1 entry
+2019-10-18 23:04:56.162353,Postion 2 entry
+2019-10-19 03:05:47.032453,Position 1 shortSet 1
+2019-10-19 03:05:47.831270,Position 2 shortSet 0.5
+2019-10-19 12:16:45.462831,Position 1 exit
+2019-10-19 12:16:46.260054,State 1 locked
+2019-10-19 12:17:49.065703,State 1 unlocked: State change unlock
+2019-10-19 12:25:29.578028,Postion 1 entry
+2019-10-19 12:56:58.730382,Position 1 Target 1 Hit
+2019-10-19 12:57:00.297160,Position 2 Target 1 Hit
+2019-10-19 12:57:32.766687,Position 1 Target 2 Hit
+2019-10-19 13:10:58.932505,Position 1 exit
+2019-10-19 13:10:59.731546,State 1 locked
+2019-10-19 17:02:36.360651,State 1 unlocked: Time unlock
+2019-10-19 17:02:46.087717,Postion 1 entry
+2019-10-19 20:12:06.256240,Position 1 shortSet 1
+2019-10-19 21:19:14.439978,Position 2 exit
+2019-10-20 01:50:09.638892,Position 1 exit
+2019-10-20 09:20:16.735482,Postion 1 entry
+2019-10-20 09:49:41.895950,Position 1 shortSet 1
+2019-10-20 15:02:10.100257,Postion 2 entry
+2019-10-20 16:30:53.855844,Position 1 Target 1 Hit
+2019-10-20 16:30:55.497485,Position 2 Target 1 Hit

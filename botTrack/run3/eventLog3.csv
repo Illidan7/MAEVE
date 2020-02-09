@@ -1,0 +1,63 @@
+dateTime,event
+2019-10-25 07:03:14.755531,Postion 1 entry
+2019-10-25 10:34:10.505272,Postion 2 entry
+2019-10-25 10:46:02.323274,Position 1 Target 1 Hit
+2019-10-25 10:48:38.394953,Position 1 Target 2 Hit
+2019-10-25 10:55:53.841697,Position 2 Target 1 Hit
+2019-10-25 12:28:41.762171,Position 1 Target 3 Hit
+2019-10-25 12:28:43.318244,Position 2 Target 2 Hit
+2019-10-25 13:54:49.573562,Position 1 Target 4 Hit
+2019-10-25 14:06:10.544287,Postion 3 entry
+2019-10-25 15:27:06.954568,Position 1 Target 5 Hit
+2019-10-25 15:27:08.604746,Position 2 Target 3 Hit
+2019-10-25 15:37:28.942100,Position 2 Target 4 Hit
+2019-10-25 15:40:36.173553,Position 1 Target 6 Hit
+2019-10-25 15:40:37.736742,Position 3 Target 1 Hit
+2019-10-25 15:43:13.806691,Position 1 Target 7 Hit
+2019-10-25 15:43:15.380607,Position 2 Target 5 Hit
+2019-10-25 15:43:17.063091,Position 3 Target 2 Hit
+2019-10-25 15:44:51.534465,Position 1 Target 8 Hit
+2019-10-25 15:44:53.105303,Position 2 Target 6 Hit
+2019-10-25 15:46:58.325044,Position 1 Target 9 Hit
+2019-10-25 15:46:59.873354,Position 2 Target 7 Hit
+2019-10-25 15:47:01.427733,Position 3 Target 3 Hit
+2019-10-25 15:47:33.878771,Position 1 Target 10 Hit
+2019-10-25 15:47:35.473782,Position 2 Target 8 Hit
+2019-10-25 15:47:37.040406,Position 3 Target 4 Hit
+2019-10-25 15:48:09.502244,Position 1 Target 11 Hit
+2019-10-25 15:48:11.077684,Position 2 Target 9 Hit
+2019-10-25 15:48:12.655589,Position 3 Target 5 Hit
+2019-10-25 15:48:45.194607,Position 1 Target 12 Hit
+2019-10-25 15:48:46.753491,Position 2 Target 10 Hit
+2019-10-25 15:48:48.351748,Position 3 Target 6 Hit
+2019-10-25 15:49:20.964299,Position 1 Target 13 Hit
+2019-10-25 15:49:22.547647,Position 2 Target 11 Hit
+2019-10-25 15:49:24.102541,Position 3 Target 7 Hit
+2019-10-25 15:49:56.550941,Position 1 Target 14 Hit
+2019-10-25 15:49:58.121608,Position 2 Target 12 Hit
+2019-10-25 15:49:59.681676,Position 3 Target 8 Hit
+2019-10-25 15:50:32.124808,Position 1 Target 15 Hit
+2019-10-25 15:50:33.702809,Position 2 Target 13 Hit
+2019-10-25 15:50:35.281854,Position 3 Target 9 Hit
+2019-10-25 15:51:07.741429,Position 1 Target 16 Hit
+2019-10-25 15:51:09.328126,Position 2 Target 14 Hit
+2019-10-25 15:51:10.885961,Position 3 Target 10 Hit
+2019-10-25 15:51:43.395822,Position 1 Target 17 Hit
+2019-10-25 15:51:45.017890,Position 2 Target 15 Hit
+2019-10-25 15:51:46.585304,Position 3 Target 11 Hit
+2019-10-25 15:52:19.086430,Position 1 Target 18 Hit
+2019-10-25 15:52:20.681910,Position 2 Target 16 Hit
+2019-10-25 15:52:22.236779,Position 3 Target 12 Hit
+2019-10-25 15:52:54.725078,Position 1 Target 19 Hit
+2019-10-25 15:52:56.352452,Position 2 Target 17 Hit
+2019-10-25 15:52:57.908780,Position 3 Target 13 Hit
+2019-10-25 15:53:30.383380,Position 1 Target 20 Hit
+2019-10-25 15:53:31.943682,Position 2 Target 18 Hit
+2019-10-25 15:54:04.423220,Position 1 Target 21 Hit
+2019-10-25 15:54:06.017716,Position 2 Target 19 Hit
+2019-10-25 15:54:07.579775,Position 3 Target 14 Hit
+2019-10-25 15:54:40.180210,Position 1 Target 22 Hit
+2019-10-25 15:54:41.743432,Position 2 Target 20 Hit
+2019-10-25 15:54:43.305478,Position 3 Target 15 Hit
+2019-10-25 15:57:00.937799,Position 1 exit
+2019-10-25 15:57:01.727539,State 1 locked
