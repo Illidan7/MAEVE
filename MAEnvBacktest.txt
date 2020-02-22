@@ -1,0 +1,58 @@
+//@version=3
+strategy(title='MA envelope', overlay=true, pyramiding=10, currency='USD', default_qty_type=strategy.cash, initial_capital=2000, commission_type=strategy.commission.percent, commission_value=0.2)
+
+//DATE AND TIME
+fromMonth = input(defval=6, title='From month', minval=1)
+fromDay = input(defval=1, title='From day', minval=1)
+fromYear = input(defval=2019, title='From year', minval=2012)
+
+toMonth = input(defval=8, title='To month', minval=1)
+toDay = input(defval=24, title='To day', minval=1)
+toYear = input(defval=2019, title='To year', minval=2012)
+
+// SET STOP LOSS IN TICKS
+ticks = input(defval=20000, title='Stop Loss in Ticks', type=integer)
+
+//DEFINITIONS
+MA1 = sma(close, 8)
+MA2 = sma(close, 13)
+MA3 = sma(close, 22)
+MA4 = sma(close, 55)
+MA5 = sma(close, 100)
+
+EMA50 = ema(close, 50)
+
+
+//LOGIC
+timeInRange = (time > timestamp(fromYear, fromMonth, fromDay, 00, 00)) and (time < timestamp(toYear, toMonth, toDay, 23, 59))
+longSignal1 = crossover(MA1, MA2) and timeInRange //and rsi(close,14) < 50
+longSignal2 = crossover(MA2, MA3) and MA1>MA2 and timeInRange
+longSignal3 = crossover(MA3, MA4) and MA2>MA3 and timeInRange
+longSignal4 = crossover(MA4, MA5) and MA3>MA4 and timeInRange
+
+shortSignal1 = crossover(MA2, MA1) and timeInRange
+shortSignal2 = crossover(MA3, MA2) and MA2>MA1 and timeInRange //and rsi(close,14) > 50
+shortSignal3 = crossover(MA4, MA3) and MA3>MA2 and timeInRange
+shortSignal4 = crossover(MA5, MA4) and MA4>MA3 and timeInRange
+
+
+
+//POSITIONS
+strategy.entry(id='Buy1', long=true, qty=0.4, when=longSignal1)
+strategy.entry(id='Buy2', long=true, qty=0.8, when=longSignal2)
+strategy.entry(id='Buy3', long=true, qty=1.5, when=longSignal3)
+strategy.entry(id='Buy4', long=true, qty=2.3, when=longSignal4)
+
+strategy.close("Buy1", when = shortSignal1)
+strategy.close("Buy2", when = shortSignal2)
+strategy.close("Buy3", when = shortSignal3)
+strategy.close("Buy4", when = shortSignal4)
+
+
+plot(MA1, title = '10MA', color = blue, linewidth = 2, style = line)  
+plot(MA2, title = '20MA', color = green, linewidth = 2, style = line)
+plot(MA3, title = '30MA', color = yellow, linewidth = 2, style = line)
+plot(MA4, title = '50MA', color = red, linewidth = 2, style = line)
+plot(MA5, title = '100MA', color = orange, linewidth = 2, style = line)
+plot(EMA50, title = 'EMA50', color = white, linewidth = 2, style = line)
+
